@@ -5,23 +5,25 @@
 
 ---
 
-## 🚀 Featured Projects
+---
 
-### 🛜 Wireshark Network Analysis Lab
-A hands-on networking project where I captured and analyzed real traffic using Wireshark.
+## Featured Projects
 
-**What I analyzed:**
+### Wireshark Network Analysis Lab
+A hands-on networking project where I captured and analyzed real network traffic using Wireshark.
+
+What I analyzed:
 - DNS traffic
-- TCP 3-way handshake
+- TCP three-way handshake
 - TLS / HTTPS encryption
-- Terminal validation using `nslookup` and `curl`
+- Terminal validation using nslookup and curl
 
-🔗 [View Project](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
+Project link:
+https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
 
 ---
 
-### 🧠 What I’m Learning
-Currently focused on building skills for NOC and cybersecurity roles:
+## Currently Learning
 
 - Network troubleshooting
 - Packet analysis
@@ -31,5 +33,6 @@ Currently focused on building skills for NOC and cybersecurity roles:
 
 ---
 
-### 🎯 Career Goal
-I’m working toward a NOC or cybersecurity role where I can monitor systems, troubleshoot issues, and help keep networks secure.
+## Career Goal
+
+Working toward a Network Operations Center (NOC) or cybersecurity role focused on monitoring systems, troubleshooting issues, and maintaining network security.
