@@ -12,7 +12,7 @@
 ### Wireshark Network Analysis Lab
 A hands-on networking project where I captured and analyzed real network traffic using Wireshark.
 
-What I analyzed:
+What I worked on:
 - DNS traffic
 - TCP three-way handshake
 - TLS / HTTPS encryption
