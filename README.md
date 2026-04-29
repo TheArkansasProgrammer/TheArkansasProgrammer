@@ -21,6 +21,20 @@ What I analyzed:
 Project link:
 https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
 
+Network Troubleshooting Ticket Lab
+
+A hands-on troubleshooting lab where I simulated real NOC/help desk scenarios and diagnosed network issues using command-line tools.
+
+What I worked on:
+
+• DNS troubleshooting and resolution testing  
+• Network connectivity validation (ping tests)  
+• DNS server analysis using nslookup  
+• Step-by-step root cause analysis and documentation  
+• Structured ticket-based troubleshooting workflow  
+
+Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+
 ---
 
 ## Currently Learning
