@@ -21,7 +21,7 @@ What I analyzed:
 Project link:
 https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
 
-Network Troubleshooting Ticket Lab
+## Network Troubleshooting Ticket Lab
 
 A hands-on troubleshooting lab where I simulated real NOC/help desk scenarios and diagnosed network issues using command-line tools.
 
