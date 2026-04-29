@@ -37,7 +37,7 @@ Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-t
 
 ---
 
-## Currently Learning
+### Currently Learning
 
 - Network troubleshooting
 - Packet analysis
