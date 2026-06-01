@@ -9,6 +9,24 @@
 
 ## Featured Projects
 
+### TaskFlow Project Management Dashboard
+
+A React-based project management dashboard that I designed and developed to simulate a real-world Kanban workflow system.
+
+What I worked on:
+
+- Task creation and deletion
+- Kanban board workflow (To Do, In Progress, Done)
+- Priority management
+- Due date tracking
+- Dashboard analytics and metrics
+- Local storage persistence
+- React state management
+- Technical documentation
+
+Project link:
+https://github.com/TheArkansasProgrammer/taskflow-project-management-app
+
 ### Wireshark Network Analysis Lab
 A hands-on networking project where I captured and analyzed real network traffic using Wireshark.
 
