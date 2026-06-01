@@ -5,7 +5,22 @@
 
 ---
 
-## Featured Projects
+## Quick View Project Portfolio
+### TaskFlow Project Management Dashboard
+Designed and developed a React-based Kanban project management dashboard featuring task tracking, priority management, due date scheduling, and real-time project analytics.
+https://github.com/TheArkansasProgrammer/taskflow-project-management-app
+
+### Wireshark Network Analysis Lab
+Captured and analyzed real network traffic using Wireshark to investigate DNS, TCP, and HTTPS communications while documenting network behavior and security concepts.
+https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
+
+### Network Troubleshooting Ticket Lab
+Simulated real-world IT support and NOC workflows by diagnosing network connectivity issues, performing root cause analysis, and documenting structured troubleshooting solutions.
+https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+
+---
+
+## Project Portfolio Detailed Breakdown
 
 ### TaskFlow Project Management Dashboard
 
