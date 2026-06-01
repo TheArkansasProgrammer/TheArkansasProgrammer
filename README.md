@@ -5,8 +5,6 @@
 
 ---
 
----
-
 ## Featured Projects
 
 ### TaskFlow Project Management Dashboard
