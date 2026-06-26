@@ -27,7 +27,7 @@
 
 A React-based project management dashboard that I designed and developed to simulate a real-world Kanban workflow system.
 
-What I worked on:
+**What I worked on:**
 
 - Task creation and deletion
 - Kanban board workflow (To Do, In Progress, Done)
@@ -38,39 +38,53 @@ What I worked on:
 - React state management
 - Technical documentation
 
-Project link:
+**Project link:**  
 https://github.com/TheArkansasProgrammer/taskflow-project-management-app
 
+---
+
 ### Wireshark Network Analysis Lab
+
 A hands-on networking project where I captured and analyzed real network traffic using Wireshark.
 
-What I worked on:
-- DNS traffic
-- TCP three-way handshake
-- TLS / HTTPS encryption
-- Terminal validation using nslookup and curl
+**What I worked on:**
 
-Project link:
+- DNS traffic analysis
+- TCP three-way handshake analysis
+- HTTP and HTTPS packet inspection
+- TLS/HTTPS encryption analysis
+- Terminal validation using `nslookup` and `curl`
+- Packet capture and protocol analysis
+- Technical documentation of network behavior
+
+**Project link:**  
 https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
 
-### Network Troubleshooting Ticket Lab 
-A hands-on troubleshooting lab where I simulated real NOC/help desk scenarios and diagnosed network issues using command-line tools.
+---
 
-What I worked on:
+### Network Troubleshooting Ticket Lab
 
-• DNS troubleshooting and resolution testing  
-• Network connectivity validation (ping tests)  
-• DNS server analysis using nslookup  
-• Step-by-step root cause analysis and documentation  
-• Structured ticket-based troubleshooting workflow  
+A hands-on troubleshooting lab where I simulated real-world NOC and IT support scenarios by diagnosing network connectivity issues using command-line tools and structured troubleshooting methodologies.
 
-Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+**What I worked on:**
+
+- DNS troubleshooting and resolution testing
+- Network connectivity validation using `ping`
+- DNS server analysis using `nslookup`
+- Root cause analysis and issue documentation
+- Structured ticket-based troubleshooting workflow
+- Simulated real-world NOC and help desk scenarios
+
+**Project link:**  
+https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+
+---
 
 ### Linux Firewall Troubleshooting Lab
 
 A hands-on Linux networking project where I configured firewall rules using **iptables** to simulate an enterprise firewall troubleshooting scenario. The lab focused on validating network connectivity, isolating firewall-related issues, and documenting a structured troubleshooting process commonly used by Network Operations Center (NOC) and IT support teams.
 
-### What I worked on:
+**What I worked on:**
 
 - Configured Linux firewall rules using **iptables**
 - Verified Layer 3 connectivity using **ICMP (ping)**
@@ -81,15 +95,27 @@ A hands-on Linux networking project where I configured firewall rules using **ip
 - Documented troubleshooting procedures using industry-standard methodologies
 - Demonstrated Linux command-line networking and firewall administration
 
-**Project link:** https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
----
-
-### Currently Learning
-
-- Network troubleshooting
-- Packet analysis
-- DNS, TCP/IP, and HTTPS
-- Security fundamentals
-- Technical documentation
+**Project link:**  
+https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
 
 ---
+
+### Enterprise Active Directory Administration Lab *(Coming Soon)*
+
+A hands-on enterprise systems administration project where I will build and manage a Windows Server Active Directory environment to simulate real-world IT infrastructure. The lab will focus on user and group administration, Group Policy management, domain services, PowerShell automation, and enterprise troubleshooting commonly performed by Systems Administrators and NOC engineers.
+
+**What I will work on:**
+
+- Installing and configuring Windows Server
+- Deploying an Active Directory Domain Controller
+- Creating Organizational Units (OUs)
+- Managing users, groups, and permissions
+- Configuring Group Policy Objects (GPOs)
+- Deploying DNS and DHCP services
+- Joining Windows clients to the domain
+- Creating shared folders and NTFS permissions
+- Automating administrative tasks with PowerShell
+- Simulating real-world Active Directory troubleshooting scenarios
+
+**Project link:**  
+Coming Soon
