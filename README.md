@@ -8,10 +8,8 @@
 ## Quick View Project Portfolio
 
 ### Enterprise Firewall Administration & Network Security Lab
-
-Designed and configured a simulated enterprise firewall by implementing firewall rules for DNS, Web, Email, Database, and VoIP services. Configured Stateful Packet Inspection (SPI), monitored live firewall logs, analyzed network traffic, and validated security policies through simulated attack scenarios.
-
-GitHub: https://github.com/TheArkansasProgrammer/enterprise-firewall-administration-network-security-lab
+Designed and configured a simulated enterprise firewall by creating security rules, monitoring network traffic, and validating firewall policies through simulated attack scenarios.
+https://github.com/TheArkansasProgrammer/enterprise-firewall-administration-network-security-lab
 
 ### Linux Firewall Troubleshooting Lab
 Configured Linux firewall rules using iptables to troubleshoot network connectivity, validate ICMP and TCP traffic, and perform structured root cause analysis in a simulated enterprise networking environment.
