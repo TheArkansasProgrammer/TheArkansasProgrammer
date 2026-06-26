@@ -4,43 +4,11 @@
 ---
 
 # Quick View Project Portfolio
-
-## Networking & Infrastructure
-
-### Enterprise Firewall Administration & Network Security Lab
-Designed and configured a simulated enterprise firewall by creating security rules, monitoring network traffic, and validating firewall policies through simulated attack scenarios.
-
-GitHub: https://github.com/TheArkansasProgrammer/enterprise-firewall-administration-network-security-lab
-
----
-
-### Linux Firewall Troubleshooting Lab
-Configured Linux firewall rules using iptables to troubleshoot network connectivity, validate ICMP and TCP traffic, and perform structured root cause analysis in a simulated enterprise networking environment.
-
-GitHub: https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
-
----
-
-### Wireshark Network Analysis Lab
-Captured and analyzed real network traffic using Wireshark to investigate DNS, TCP, and HTTPS communications while documenting network behavior and security concepts.
-
-GitHub: https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
-
----
-
-### Network Troubleshooting Ticket Lab
-Simulated real-world IT support and NOC workflows by diagnosing network connectivity issues, performing root cause analysis, and documenting structured troubleshooting solutions.
-
-GitHub: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
-
----
-
-## Project Management & Software Development
-
-### TaskFlow Project Management Dashboard
-Designed and developed a React-based Kanban project management dashboard featuring task tracking, priority management, due date scheduling, and real-time project analytics.
-
-GitHub: https://github.com/TheArkansasProgrammer/taskflow-project-management-app
+- [Enterprise Active Directory Administration Lab](https://github.com/TheArkansasProgrammer/enterprise-active-directory-administration-lab) *(Coming Soon)*
+- [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
+- [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
+- [Network Troubleshooting Ticket Lab](https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab)
+- [TaskFlow Project Management Dashboard](https://github.com/TheArkansasProgrammer/taskflow-project-management-app)
 
 ---
 
