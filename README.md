@@ -70,6 +70,23 @@ What I worked on:
 
 Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
 
+Linux Firewall Troubleshooting Lab
+
+A hands-on Linux networking project where I configured firewall rules using iptables to simulate an enterprise firewall troubleshooting scenario. The lab focused on validating network connectivity, isolating firewall-related issues, and documenting a structured troubleshooting process commonly used by Network Operations Center (NOC) and IT support teams.
+
+What I worked on:
+Configured Linux firewall rules using iptables
+Verified Layer 3 connectivity using ICMP (ping)
+Tested TCP communication using Telnet
+Simulated firewall-related network connectivity issues
+Performed structured root cause analysis to identify blocked TCP traffic
+Validated firewall behavior through network testing
+Documented troubleshooting procedures using industry-standard methodologies
+Demonstrated Linux command-line networking and firewall administration
+
+Project link:
+https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
+
 ---
 
 ### Currently Learning
@@ -81,7 +98,3 @@ Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-t
 - Technical documentation
 
 ---
-
-## Career Goal
-
-Working toward a Network Operations Center (NOC) or cybersecurity role focused on monitoring systems, troubleshooting issues, and maintaining network security.
