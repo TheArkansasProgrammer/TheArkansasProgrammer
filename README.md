@@ -70,7 +70,7 @@ What I worked on:
 
 Project link: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
 
-## Linux Firewall Troubleshooting Lab
+### Linux Firewall Troubleshooting Lab
 
 A hands-on Linux networking project where I configured firewall rules using **iptables** to simulate an enterprise firewall troubleshooting scenario. The lab focused on validating network connectivity, isolating firewall-related issues, and documenting a structured troubleshooting process commonly used by Network Operations Center (NOC) and IT support teams.
 
