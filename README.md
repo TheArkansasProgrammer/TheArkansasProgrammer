@@ -6,6 +6,11 @@
 ---
 
 ## Quick View Project Portfolio
+
+### Linux Firewall Troubleshooting Lab
+Configured Linux firewall rules using iptables to troubleshoot network connectivity, validate ICMP and TCP traffic, and perform structured root cause analysis in a simulated enterprise networking environment.
+https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
+
 ### TaskFlow Project Management Dashboard
 Designed and developed a React-based Kanban project management dashboard featuring task tracking, priority management, due date scheduling, and real-time project analytics.
 https://github.com/TheArkansasProgrammer/taskflow-project-management-app
