@@ -5,27 +5,44 @@
 
 ---
 
-## Quick View Project Portfolio
+# Quick View Project Portfolio
+
+## Networking & Infrastructure
 
 ### Enterprise Firewall Administration & Network Security Lab
 Designed and configured a simulated enterprise firewall by creating security rules, monitoring network traffic, and validating firewall policies through simulated attack scenarios.
-https://github.com/TheArkansasProgrammer/enterprise-firewall-administration-network-security-lab
+
+GitHub: https://github.com/TheArkansasProgrammer/enterprise-firewall-administration-network-security-lab
+
+---
 
 ### Linux Firewall Troubleshooting Lab
 Configured Linux firewall rules using iptables to troubleshoot network connectivity, validate ICMP and TCP traffic, and perform structured root cause analysis in a simulated enterprise networking environment.
-https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
+
+GitHub: https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab
+
+---
 
 ### Wireshark Network Analysis Lab
 Captured and analyzed real network traffic using Wireshark to investigate DNS, TCP, and HTTPS communications while documenting network behavior and security concepts.
-https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
+
+GitHub: https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab
+
+---
 
 ### Network Troubleshooting Ticket Lab
 Simulated real-world IT support and NOC workflows by diagnosing network connectivity issues, performing root cause analysis, and documenting structured troubleshooting solutions.
-https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+
+GitHub: https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab
+
+---
+
+## Project Management & Software Development
 
 ### TaskFlow Project Management Dashboard
 Designed and developed a React-based Kanban project management dashboard featuring task tracking, priority management, due date scheduling, and real-time project analytics.
-https://github.com/TheArkansasProgrammer/taskflow-project-management-app
+
+GitHub: https://github.com/TheArkansasProgrammer/taskflow-project-management-app
 
 ---
 
