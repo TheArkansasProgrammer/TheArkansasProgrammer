@@ -5,17 +5,17 @@
 
 # Quick View Project Portfolio
 
-## 🌐 Networking & Infrastructure
+##  Networking & Infrastructure
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
 - [Network Troubleshooting Ticket Lab](https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab)
 
-## 🖥️ Systems Administration
+##  Systems Administration
 
 - Enterprise Active Directory Administration Lab *(Coming Soon)*
 
-## 💻 Software Development
+##  Software Development
 
 - [TaskFlow Project Management Dashboard](https://github.com/TheArkansasProgrammer/taskflow-project-management-app)
 
