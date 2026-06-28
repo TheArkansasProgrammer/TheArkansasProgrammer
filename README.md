@@ -8,22 +8,17 @@
 
 # Quick View Project Portfolio
 
-<img width="1600" height="140" alt="Networking Infastructure " src="https://github.com/user-attachments/assets/5c098ce3-3248-44c9-b2d2-0b13d1ca0dbe" />
-
-
+<img width="1600" height="140" alt="sdadasd" src="https://github.com/user-attachments/assets/3a42f356-b23b-435e-baee-e5b0348be097" />
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
 - [Network Troubleshooting Ticket Lab](https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab)
 
-
-<img width="1600" height="140" alt="Untitled-2" src="https://github.com/user-attachments/assets/9365a904-5a73-468a-b057-4a4b9de2513f" />
-
+<img width="1600" height="140" alt="4" src="https://github.com/user-attachments/assets/1f733365-d91b-4198-9d9c-7c1a2fd570c6" />
 
 - Enterprise Active Directory Administration Lab *(Coming Soon)*
 
-
-<img width="1600" height="140" alt="sasasd" src="https://github.com/user-attachments/assets/7206ad64-3260-400a-822b-732ad15dcdea" />
+<img width="1600" height="140" alt="sadasdas" src="https://github.com/user-attachments/assets/76e7b5ad-f8fb-4398-90ed-ed20342bf8a3" />
 
 - [TaskFlow Project Management Dashboard](https://github.com/TheArkansasProgrammer/taskflow-project-management-app)
 
