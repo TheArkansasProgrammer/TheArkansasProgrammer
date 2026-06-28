@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="0bc8fb49-fe59-4b10-9af9-428f75e448b7" src="https://github.com/user-attachments/assets/361e2a96-9214-425d-bbbc-dff912458406" />
 
 
 # 💻 Tech Stack:
@@ -7,8 +8,8 @@
 
 # Quick View Project Portfolio
 
-##  Networking & Infrastructure
-<img width="1983" height="100" alt="0bc8fb49-fe59-4b10-9af9-428f75e448b7" src="https://github.com/user-attachments/assets/deadd8ae-2fd4-4bcf-a766-24f9f7a6c05a" />
+
+<img width="1983" height="793" alt="0bc8fb49-fe59-4b10-9af9-428f75e448b7" src="https://github.com/user-attachments/assets/361e2a96-9214-425d-bbbc-dff912458406" />
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
