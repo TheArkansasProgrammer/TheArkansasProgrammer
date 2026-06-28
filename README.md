@@ -8,8 +8,6 @@
 
 # Quick View Project Portfolio
 
-
-
 <img width="1600" height="140" alt="sdadasd" src="https://github.com/user-attachments/assets/3a42f356-b23b-435e-baee-e5b0348be097" />
 
 <p align="center">
@@ -19,8 +17,6 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab">Network Troubleshooting Ticket</a>
 </p>
-
-
 
 
 
