@@ -16,7 +16,9 @@
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
 - [Network Troubleshooting Ticket Lab](https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab)
 
-##  Systems Administration
+
+<img width="1600" height="140" alt="Untitled-2" src="https://github.com/user-attachments/assets/9365a904-5a73-468a-b057-4a4b9de2513f" />
+
 
 - Enterprise Active Directory Administration Lab *(Coming Soon)*
 
