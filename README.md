@@ -8,7 +8,15 @@
 
 # Quick View Project Portfolio
 
+
+
 <img width="1600" height="140" alt="sdadasd" src="https://github.com/user-attachments/assets/3a42f356-b23b-435e-baee-e5b0348be097" />
+
+<p align="center">
+<a href="LINK1">🔥 Linux Firewall</a> •
+<a href="LINK2">📡 Wireshark Analysis</a> •
+<a href="LINK3">🎫 Network Troubleshooting</a>
+</p>
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
