@@ -8,7 +8,7 @@
 
 # Quick View Project Portfolio
 
-<img width="2172" height="724" alt="ChatGPT Image Jun 27, 2026, 06_04_00 PM" src="https://github.com/user-attachments/assets/7a38f286-19e8-4cb5-aa01-8fe23f3f3f31" />
+<img width="1600" height="140" alt="Networking Infastructure " src="https://github.com/user-attachments/assets/5c098ce3-3248-44c9-b2d2-0b13d1ca0dbe" />
 
 
 
