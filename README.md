@@ -1,4 +1,3 @@
-<img width="1774" height="887" alt="c8082fc4-01c7-4c76-87cf-3b7e3b93ae59" src="https://github.com/user-attachments/assets/6806f4ea-b6f9-4602-90cb-a998d117e748" />
 
 
 
@@ -9,8 +8,9 @@
 
 # Quick View Project Portfolio
 
+<img width="2172" height="724" alt="ChatGPT Image Jun 27, 2026, 06_04_00 PM" src="https://github.com/user-attachments/assets/7a38f286-19e8-4cb5-aa01-8fe23f3f3f31" />
 
-<img width="1774" height="887" alt="c8082fc4-01c7-4c76-87cf-3b7e3b93ae59" src="https://github.com/user-attachments/assets/6806f4ea-b6f9-4602-90cb-a998d117e748" />
+
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
