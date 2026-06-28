@@ -1,4 +1,5 @@
 
+
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
@@ -7,7 +8,7 @@
 # Quick View Project Portfolio
 
 ##  Networking & Infrastructure
-![Uploading 0bc8fb49-fe59-4b10-9af9-428f75e448b7.png…]()
+<img width="1983" height="793" alt="0bc8fb49-fe59-4b10-9af9-428f75e448b7" src="https://github.com/user-attachments/assets/deadd8ae-2fd4-4bcf-a766-24f9f7a6c05a" />
 
 - [Linux Firewall Troubleshooting Lab](https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab)
 - [Wireshark Network Analysis Lab](https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab)
