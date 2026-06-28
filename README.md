@@ -21,13 +21,23 @@
 </p>
 
 
+
+
+
 <img width="1600" height="140" alt="4" src="https://github.com/user-attachments/assets/1f733365-d91b-4198-9d9c-7c1a2fd570c6" />
 
-- Enterprise Active Directory Administration Lab *(Coming Soon)*
+<p align="center">
+Enterprise Active Directory Administration Lab <i>(Coming Soon)</i>
+</p>
+
+
+
 
 <img width="1600" height="140" alt="sadasdas" src="https://github.com/user-attachments/assets/76e7b5ad-f8fb-4398-90ed-ed20342bf8a3" />
 
-- [TaskFlow Project Management Dashboard](https://github.com/TheArkansasProgrammer/taskflow-project-management-app)
+<p align="center">
+<a href="https://github.com/TheArkansasProgrammer/taskflow-project-management-app">TaskFlow Project Management Dashboard</a>
+</p>
 
 ---
 
