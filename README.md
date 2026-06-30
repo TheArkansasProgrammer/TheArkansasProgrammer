@@ -14,7 +14,10 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab">Wireshark Network Analysis</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab">Network Troubleshooting Ticket</a>
+<a href="https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab">Network Troubleshooting Ticket</a> 
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/TheArkansasProgrammer/Enterprise-Campus-Network-Deployment">
+  Project Orion: Enterprise Network Architecture </a>
 </p>
 
 
