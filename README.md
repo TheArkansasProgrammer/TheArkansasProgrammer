@@ -10,17 +10,25 @@
 <img width="1600" height="140" alt="sdadasd" src="https://github.com/user-attachments/assets/3a42f356-b23b-435e-baee-e5b0348be097" />
 
 <p align="center">
-<a href="https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab">Linux Firewall Troubleshooting</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab">Wireshark Network Analysis</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab">Network Troubleshooting Ticket</a> 
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/TheArkansasProgrammer/Enterprise-Campus-Network-Deployment">
-  Project Orion: Enterprise Network Architecture </a>
+  <a href="https://github.com/TheArkansasProgrammer/Enterprise-Campus-Network-Deployment">
+    ⭐️Project Orion: Enterprise Network Architecture
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://github.com/TheArkansasProgrammer/linux-firewall-troubleshooting-lab">
+    Linux Firewall Troubleshooting
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://github.com/TheArkansasProgrammer/wireshark-network-analysis-lab">
+    Wireshark Network Analysis
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+
+  <a href="https://github.com/TheArkansasProgrammer/network-troubleshooting-ticket-lab">
+    Network Troubleshooting Ticket
+  </a>
 </p>
-
-
 
 <img width="1600" height="140" alt="4" src="https://github.com/user-attachments/assets/1f733365-d91b-4198-9d9c-7c1a2fd570c6" />
 
